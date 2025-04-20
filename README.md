@@ -56,6 +56,9 @@ plt.show()
 # Output Waveform
 ![Screenshot 2025-04-19 152622](https://github.com/user-attachments/assets/6b048ea1-9b57-4722-98bf-85ecc63abf74)
 
+## Output Graph
+![image](https://github.com/user-attachments/assets/fb255f2d-1b20-49c2-91e5-829c70aeafa8)
+
 # Results
 Amplitude Shift Keying (ASK) will be displayed in separate plots. Thus implemented using python colab.
 
